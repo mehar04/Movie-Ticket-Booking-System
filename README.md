@@ -100,9 +100,4 @@ For questions or inquiries, please contact [LinkedIn - Om Maniya](https://www.li
 # License
 Refer to LICENSE file for details.
 
-## 💪Thanks to all Contributors
-Thanks to all contributors for helping this project grow!
 
-<a href="https://github.com/maniyaom/movie-ticket-booking/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=maniyaom/movie-ticket-booking" />
-</a>
