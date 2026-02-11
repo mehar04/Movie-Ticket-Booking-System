@@ -14,7 +14,7 @@
 
 # Ticketify Event Ticket Booking Application
 
-Ticketify is a frontend-based Movie Ticket Booking application built using HTML, CSS, and JavaScript.  
+Ticketify is a frontend application integrated with Firebase services for authentication and real-time database management.
 It allows users to select seats dynamically and view real-time booking cost updates using JavaScript-based state management.
 
 ## 📝 Introduction
@@ -29,13 +29,12 @@ The project focuses on JavaScript fundamentals, DOM manipulation, and event hand
 
 ## ✨ Features
 
-- 🎥 Movie selection dropdown  
-- 🪑 Interactive seat layout  
-- ❌ Disabled already-booked seats  
-- 🔄 Real-time seat count update  
-- 💰 Dynamic total price calculation  
-- 📱 Responsive and clean UI
-
+- 🔐 User Authentication (Firebase Authentication)
+- 🎟️ Event/Movie listing interface
+- 🪑 Ticket booking functionality
+- 📊 Real-time database updates
+- 📩 Email integration (EmailJS)
+- ⚡ Responsive UI
 
 ## 🛠️ Tech Stack
 
