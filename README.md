@@ -10,7 +10,7 @@
 - [How to Run](#how-to-run)
 - [Learning Outcomes](#learning-outcomes)
 - [Author](#author)
-- [License](#license)
+
 
 # Ticketify Event Ticket Booking Application
 
@@ -84,12 +84,5 @@ GitHub: https://github.com/mehar04
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-⭐ If you found this project useful, consider giving it a star!
 
 
